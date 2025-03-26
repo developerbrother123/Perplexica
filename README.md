@@ -188,6 +188,6 @@ Perplexica is built on the idea that AI and large language models should be easy
 
 ## Help and Support
 
-If you have any questions or feedback, please feel free to reach out to us. You can create an issue on GitHub or join our Discord server. There, you can connect with other users, share your experiences and reviews, and receive more personalized help. [Click here](https://piexed.eu.org) to join the Discord server. To discuss matters outside of regular support, feel free to contact me on Discord at `itzcrazykns`.
+If you have any questions or feedback, please feel free to reach out to us. You can create an issue on GitHub or join our Discord server. There, you can connect with other users, share your experiences and reviews, and receive more personalized help. [Click here](https://piexed.eu.org) to join the Discord server. To discuss matters outside of regular support, feel free to contact me on Discord at `dan`.
 
 Thank you for exploring Perplexica, the AI-powered search engine designed to enhance your search experience. We are constantly working to improve Perplexica and expand its capabilities. We value your feedback and contributions which help us make Perplexica even better. Don't forget to check back for updates and new features!
